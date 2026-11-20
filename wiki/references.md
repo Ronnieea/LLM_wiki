@@ -1,0 +1,4 @@
+# 參考文獻
+
+- Guttesen, Anna á V.; Harrington, Marcus O.; Gaskell, M. Gareth; Cairney, Scott A. (2025). “Does overnight memory consolidation support next-day learning?” *Cognition*, 264, 106241. DOI: [10.1016/j.cognition.2025.106241](https://doi.org/10.1016/j.cognition.2025.106241). [原文](../raw/3.pdf)；[摘要](papers/guttesen-2025-overnight-memory.md)。第一作者名字的重音因擷取問題待人工核對。
+- Gardiner, Carissa L.; Weakley, Jonathon; Burke, Louise M.; Fernandez, Francesca; Johnston, Rich D.; Leota, Josh; Russell, Suzanna; Munteanu, Gabriella; Townshend, Andrew; Halson, Shona L. (2025). “Dose and timing effects of caffeine on subsequent sleep: a randomized clinical crossover trial.” *Sleep*, 48(4), zsae230. DOI: [10.1093/sleep/zsae230](https://doi.org/10.1093/sleep/zsae230). 2024 年先行線上發表。[原文](../raw/5.pdf)；[摘要](papers/gardiner-2025-caffeine-timing.md)。
