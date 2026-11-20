@@ -1,0 +1,10 @@
+[
+ {"claim_id":"C1","claim":"睡眠研究區分 NREM 與 REM","qualification":"研究分類","source_id":"P1","wiki_path":"wiki/topics/sleep-stages-and-cycles.md","source_locator":"第2頁","excerpt":"睡眠研究常區分 NREM 與 REM","slide":2},
+ {"claim_id":"C2","claim":"8人觀察中週期平均98分鐘且會變動","qualification":"不能視為人人固定值","source_id":"P1","wiki_path":"wiki/topics/sleep-stages-and-cycles.md","source_locator":"第6頁","excerpt":"8 名健康成人的多晚觀察中，NREM–REM 週期平均 98 分鐘","slide":3},
+ {"claim_id":"C3","claim":"光線協助同步 SCN","qualification":"綜述對既有研究的整理","source_id":"P2","wiki_path":"wiki/topics/circadian-rhythms.md","source_locator":"第1–2頁","excerpt":"光線協助同步大腦的主要時鐘 SCN","slide":4},
+ {"claim_id":"C4","claim":"睡眠組字詞配對保留高於日間清醒組","qualification":"比較涉及不同測試時間","source_id":"P3","wiki_path":"wiki/topics/sleep-and-memory.md","source_locator":"第5、8頁","excerpt":"夜間睡眠組隔約 12 小時的字詞配對保留表現高於日間清醒組","slide":5},
+ {"claim_id":"C5","claim":"新學習結果兩實驗不同，正相關僅探索性","qualification":"仍需確認","source_id":"P3","wiki_path":"wiki/topics/sleep-and-memory.md","source_locator":"第5、8、10–11頁","excerpt":"第一項實驗無顯著組間差異，第二項則為清醒組較高","slide":6},
+ {"claim_id":"C6","claim":"兩種睡眠條件工作記憶直接比較未達顯著","qualification":"6週，不能依各組基線判定組間差異","source_id":"P4","wiki_path":"wiki/topics/sleep-restriction-and-cognition.md","source_locator":"第2、18頁","excerpt":"工作記憶的兩條件結束後直接比較未達雙尾顯著","slide":7},
+ {"claim_id":"C7","claim":"23名男性在睡前4小時攝取400mg估計少睡50.6分鐘","qualification":"每天早上另服習慣量；與安慰劑相比","source_id":"P5","wiki_path":"wiki/topics/caffeine-and-sleep.md","source_locator":"第3、5–6頁","excerpt":"估計總睡眠時間少 50.6 分鐘","slide":8},
+ {"claim_id":"C8","claim":"100mg條件無顯著差異不等於人人無影響","qualification":"樣本小、每個條件一晚","source_id":"P5","wiki_path":"wiki/topics/caffeine-and-sleep.md","source_locator":"第1、10–11頁","excerpt":"不能據此保證所有人不受影響","slide":9}
+]
