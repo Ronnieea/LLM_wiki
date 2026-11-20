@@ -2,7 +2,7 @@
 
 ## 論文基本資訊
 
-Guttesen 等人（2025），*Does overnight memory consolidation support next-day learning?*，*Cognition* 264，106241。[原始 PDF](../../raw/3.pdf)；[完整書目](../references.md)。以下頁碼為 PDF 頁碼；第一作者名字的重音待人工核對。
+Guttesen 等人（2025），*Does overnight memory consolidation support next-day learning?*，*Cognition* 264，106241。[原始 PDF](../../raw/3.pdf)；[完整書目](../references.md)。以下頁碼為 PDF 頁碼。
 
 ## 研究問題與目的
 
@@ -14,7 +14,7 @@ Guttesen 等人（2025），*Does overnight memory consolidation support next-da
 
 ## 直接觀察與重要數據
 
-- 兩項實驗的字詞配對保留指標在睡眠組均高於清醒組：實驗一 *d* = 0.60、*p* = .002；實驗二 *d* = 0.77、*p* < .001。這是夜間睡眠與日間清醒條件的比較，不能單獨排除時段等其他因素（Guttesen 等人，2025，第 5、8 頁，圖 2、4）。
+- 兩項實驗的字詞配對保留指標在睡眠組均高於清醒組：實驗一 *d* = 0.60、*p* = .002；實驗二 *d* = 0.77、*p* < .001。這是夜間睡眠與日間清醒條件的比較，不能單獨排除時段等其他因素（Guttesen 等人，2025，第 5–6、8 頁，圖 2、4）。
 - 新字詞配對的立即學習表現，實驗一兩組無顯著差異（*p* = .34）；實驗二清醒組高於睡眠組（*p* = .005）（Guttesen 等人，2025，第 5、8 頁）。
 - 事先註冊的分析中，睡眠組的保留與新學習之間沒有顯著相關；合併實驗並控制先前回憶表現的探索性分析出現正相關，但兩組相關差異不顯著（Guttesen 等人，2025，第 5、8、10–11 頁）。
 
